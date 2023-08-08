@@ -5,6 +5,8 @@
 - BA in Sport Analytics
 - BA in Statistics
 - Minor in Data Science
+
+
 **Relevant Classes:** Data Science Tools and Models, Statistics for Data Science, Algorithmic Thinking
 
 ## Competition Projects
