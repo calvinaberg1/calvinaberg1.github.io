@@ -17,9 +17,6 @@
 
 *Skills Used:* R, ggplot, Presentation, Communication
 
-[View Presentation Here](/pictures/SABR Case Competition.pptx)
-
-
 ![hello](/pictures/sabr.jpg)
 
 ### Rice Datathon Chevron Challenge - Winner - *January 2023*
