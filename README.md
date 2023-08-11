@@ -15,6 +15,20 @@
 - Predicted the effects of umpire missed calls on the outcome of several baseball games using statistical models based on change-of-state probabilies
 - Collaborated with a group of 5 students to present our research and findings to a panel of baseball inustry experts
 
-*Skills Used:* R, ggplot, Presentation, COmmunication, Microsoft PowerPoint
+*Skills Used:* R, ggplot, Presentation, Communication
 
+![](/pictures/SABR Case Competition.pptx)
 ![hello](/pictures/sabr.jpg)
+
+### Rice Datathon Chevron Challenge - Winner	
+- Created an ensemble regression model to predict renewable energy expenditure by state
+- Collaborated with a partner using a combination of linear, polynomial, random forest, and gradient boosting algorithms with python
+- Experimented with feature engineering and data addition to supplement political, geospacial, and weather data
+- Problem solved issues with ultra-high error by transitioning to a state-by-state ensamble prediction model, slicing our error by orders of magnitude
+- Selected as winners of the Chevron data science track
+
+*Skills Used:* Python, machine learning, sklearn, presentation
+
+![](/pictures/DSC_0620.jpg)
+
+
