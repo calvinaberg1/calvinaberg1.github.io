@@ -11,14 +11,15 @@
 
 ## Competition Projects
 
-### SABR Diamond Dollars Competition - Winner *March 2023*
+### SABR Diamond Dollars Competition - Winner - *March 2023*
 - Predicted the effects of umpire missed calls on the outcome of several baseball games using statistical models based on change-of-state probabilies
 - Collaborated with a group of 5 students to present our research and findings to a panel of baseball inustry experts
 
 *Skills Used:* R, ggplot, Presentation, Communication
 
-![hellooo](/pictures/SABR Case Competition.pptx)
 [View Presentation Here](/pictures/SABR Case Competition.pptx)
+
+
 ![hello](/pictures/sabr.jpg)
 
 ### Rice Datathon Chevron Challenge - Winner - *January 2023*
