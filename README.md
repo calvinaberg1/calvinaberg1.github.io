@@ -11,5 +11,7 @@
 
 ## Competition Projects
 
-### SABR Diamond Dollars Competition
-- xyz
+### SABR Diamond Dollars Competition - Winner
+- Predicted the effects of umpire missed calls on the outcome of several baseball games using statistical models based on change-of-state probabilies
+- Collaborated with a group of 5 students to present our research and findings to a panel of baseball inustry experts
+- 
